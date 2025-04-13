@@ -4,4 +4,4 @@
 
 Using Excel, the data was first cleaned and prepared for analysis. Various BI tools within Excel—such as pivot tables, charts, and conditional formatting—were utilized to explore patterns and trends in customer behavior. Key metrics such as monthly spending, transaction frequency, and product category preferences were visualized through interactive dashboards. The analysis also included customer segmentation based on usage and spending habits, which can be valuable for targeted marketing strategies.
 
-MS EXCEL PROJECT FILE:https://docs.google.com/spreadsheets/d/1iJAXsAj-KWSk9afn4WNkT6T7wCf8n15p/edit?usp=sharing&ouid=103550373939953880474&rtpof=true&sd=true
+MS EXCEL PROJECT FILE:https://1drv.ms/x/c/1aefce15ef459090/Ec4fU-3rHFxGg1PLrIil3ckBdC6T5cLiQd1DU92Cw1z2qQ?e=JEulwT
